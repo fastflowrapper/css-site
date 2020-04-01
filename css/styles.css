@@ -1,0 +1,159 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Roboto Slab', serif;
+}
+
+h1 {
+  font-family: 'Permanent Marker', cursive;
+  font-size: 4.6rem;
+  margin: 50px auto 0 auto;
+  color: #66BFBF;
+  line-height: 2;
+}
+
+h2 {
+  font-family: 'Share Tech Mono', monospace;
+  font-size: 2.2rem;
+  margin-top: 0;
+  color: #66BFBF;
+}
+
+h3 {
+  font-size: 130%;
+  color: #11999E;
+  font-family: 'Share Tech Mono', monospace;
+}
+
+a {
+  color: #11999E;
+  margin: 5px 30px;
+  text-decoration: none;
+  font-family: 'Roboto Slab', serif;
+}
+
+a:hover{
+  color:  #eaf6f6;
+}
+
+hr {
+  margin: 60px auto;
+  border-style: none;
+  border-top: dotted 5px grey;
+  width: 10%;
+}
+
+p {
+  color: #1b2221;
+  line-height: 2;
+}
+
+
+
+.skill-row {
+  position: relative;
+  bottom:10px;
+  line-height: 2;
+  margin: 90px auto;
+  text-align: left;
+  width: 50%;
+}
+
+.coffee-cup {
+  width: 30%;
+  float: left;
+  margin-right: 30px;
+}
+
+.music {
+  width: 30%;
+  float: right;
+  margin-left: 30px;
+}
+
+.programmer {
+  font-weight: normal;
+}
+
+.noob {
+  text-decoration: underline;
+}
+
+.top-container {
+  background-color: #856c8b;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container{
+  padding-top: 100px;
+  padding-bottom: 50px;
+  background-color: #eaf6f6;
+}
+
+.bottom-container {
+  background-color: #66bfbf;
+  padding-bottom: 30px;
+}
+
+.cloud1 {
+  position: absolute;
+  top: 70px;
+  right: 300px;
+}
+
+.cloud2 {
+  position: absolute;
+  bottom: 300px;
+  left: 300px;
+}
+
+.profilepic {
+  width: 200px;
+  padding-bottom : 20px;
+}
+
+.bookings {
+  margin: 30px;
+}
+
+.htmlcss {
+  margin: 30px;
+}
+
+.links{
+  width: 30%;
+  text-align: right;
+  margin:  auto;
+  padding: 35px;
+}
+
+.denlum {
+  margin: 0;
+  color: #eaf6f6;
+  font-size: 0.75rem;
+}
+
+.BUTTON {
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  color: #FFFFFF;
+  font-family: 'Roboto Slab', serif;
+  font-size: 16px;
+  font-weight: 100;
+  padding: 10px;
+  background-color: #856C8B;
+  text-shadow: 1px 1px 20px #000000;
+  text-decoration: none;
+  display: inline-block;
+;  text-align: center;
+}
+
+.BUTTON:hover {
+  background: #7C4A78;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  text-decoration: none;
+}
